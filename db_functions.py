@@ -21,12 +21,13 @@ def get_lectureType():
     return data
 
 def insert_classes (lesson, teacher, studio, day, time_from, time_to, age_group, level, course_type, address, address_city, link, email_address): 
-    sql = """INSERT INTO prehled(school, ageGroupFrom, ageGroupTo, level, lecturer, lesson, type, day, time, link, address, PSC, city_part, latitude, longitude) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+    sql = """INSERT INTO prehled(school, \"ageGroupFrom\", \"ageGroupTo\", level, lecturer, lesson, type, day, time, link, address, \"PSC\", city_part, latitude, longitude) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s) RETURNING id"""
     t = time_from.strftime("%H:%M")+" - "+time_to.strftime("%H:%M")
     conn = get_db()
     cur = conn.cursor()
     cur.execute(sql, (studio, None, None, level, teacher, lesson, course_type, day, t, link, address, None, address_city, None, None))
     data = cur.fetchone()[0]
+    conn.commit()
     return data
 
 def get_studioType():

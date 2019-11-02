@@ -27,13 +27,13 @@ def show_layout():
 def add_course():
     form = RegistrationForm(csrf_enabled = False)
     if form.validate_on_submit(): 
-        db_functions.insert_classes(
+        id = db_functions.insert_classes(
           form.lesson.data, 
           form.lecturer.data, 
           form.studio.data, 
           form.day.data, 
           form.time_from.data,
-          form.time_to,
+          form.time_to.data,
           form.age_group.data,
           form.level.data,
           form.course_type.data,
@@ -42,6 +42,7 @@ def add_course():
           form.link.data,
           form.email_address.data,
           )
+        print("Inserted row as ID " + str(id))
         return redirect (url_for ("show_formular"))
     return render_template('registrace.html', form = form)
 
