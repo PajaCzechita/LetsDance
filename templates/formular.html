@@ -1,38 +1,77 @@
 {% extends "layout.html" %} {% block body %}
-
-<form>
+<div class="col-sm-6 offset-3" style="margin-top:20px ;">
+<form method="POST" action="{{ url_for('submit_formular') }}">
     <div class="form-group">
-      <label for="exampleInputEmail1">Město</label>
-      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        <label for="exampleFormControlSelectCity">Městská část</label>
+        <select class="form-control" id="exampleFormControlSelectCity" name='city'>
+          <option value="">městská část</option>
+          {% for item in city %}
+            <option>{{ item.city_part }}</option>
+          {% endfor %}  
+        </select>
+      </div>
+    <div class="form-group">
+      <label for="exampleInputVek">Věk</label>
+      <input type="number" class="form-control" id="exampleInputVek" min="1" max="99" name='vek'>
     </div>
     <div class="form-group">
-      <label for="exampleInputPassword1">Věk</label>
-      <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-    </div>
-    <div class="form-group">
-        <label for="exampleInputEmail1">Studio</label>
-        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        <label for="exampleFormControlSelectStudio">Studio</label>
+        <select class="form-control" id="exampleFormControlSelectStudio" name='studio'>
+          <option value="">studio</option>
+          {% for item in studio %}
+            <option>{{ item.school }}</option>
+          {% endfor %}  
+        </select>
       </div>
       <div class="form-group">
-        <label for="exampleInputEmail1">Den</label>
-        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        <label for="exampleFormControlSelectDen">Den</label>
+        <select class="form-control" id="exampleFormControlSelectDen" name='den'>
+          <option value="">den</option>
+          <option>Pondělí</option>
+          <option>Úterý</option>
+          <option>Středa</option>
+          <option>Čtvrtek</option>
+          <option>Pátek</option>
+          <option>Sobota</option>
+          <option>Neděle</option>
+        </select>
       </div>
       <div class="form-group">
-        <label for="exampleFormControlSelect1">Lekce</label>
-        <select class="form-control" id="exampleFormControlSelect1">
+        <label for="exampleFormControlSelectLekce">Lekce</label>
+        <select class="form-control" id="exampleFormControlSelectLekce" name='lekce'>
+          <option value="">lekce</option>
           {% for item in type %}
             <option>{{ item.lesson }}</option>
           {% endfor %}  
         </select>
       </div>
-    <div class="form-group form-check">
-      <input type="checkbox" class="form-check-input" id="exampleCheck1">
-      <label class="form-check-label" for="exampleCheck1">Check me out</label>
-    </div>
     <button type="submit" class="btn btn-primary">Submit</button>
   </form>¨
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Městská část</th>
+        <th scope="col">Věk</th>
+        <th scope="col">Studio</th>
+        <th scope="col">Den</th>
+        <th scope="col">Lekce</th>
+        <th scope="col">Čas</th>
+      </tr>
+    </thead>
+    <tbody>
+        {% for item in search %}
+        <tr>
+        <td>{{item.city_part}}</td>
+        <td>{{item.ageGroupFrom}} - {{item.ageGroupTo}}</td>
+        <td>{{item.school}}</td>
+        <td>{{item.day}}</td>
+        <td>{{item.lesson}}</td>
+        <td>{{item.time}}</td>
+      </tr>
+        {% endfor %}
+     </tbody>
+  </table>
+  </div>
 
   {% endblock %}
