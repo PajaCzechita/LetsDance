@@ -22,10 +22,6 @@ def submit_formular():
 @application.route('/')
 def show_layout():
     return render_template('layout.html')
- 
-@application.route('/formular')
-def show_formular():
-    return render_template('formular.html', type=db_functions.get_lectureType())
 
 @application.route('/registrace', methods = ['POST', 'GET'])
 def add_course():
