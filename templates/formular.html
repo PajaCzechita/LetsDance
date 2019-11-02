@@ -12,7 +12,7 @@
       </div>
     <div class="form-group">
       <label for="exampleInputVek">Věk</label>
-      <input type="number" class="form-control" id="exampleInputVek" name='vek'>
+      <input type="number" class="form-control" id="exampleInputVek" min="1" max="99" name='vek'>
     </div>
     <div class="form-group">
         <label for="exampleFormControlSelectStudio">Studio</label>
@@ -51,23 +51,23 @@
   <table class="table">
     <thead>
       <tr>
-        <th scope="col">#</th>
         <th scope="col">Městská část</th>
         <th scope="col">Věk</th>
         <th scope="col">Studio</th>
         <th scope="col">Den</th>
         <th scope="col">Lekce</th>
+        <th scope="col">Čas</th>
       </tr>
     </thead>
     <tbody>
         {% for item in search %}
         <tr>
-        <th scope="row">{{item.id}}</th>
         <td>{{item.city_part}}</td>
         <td>{{item.ageGroupFrom}} - {{item.ageGroupTo}}</td>
         <td>{{item.school}}</td>
         <td>{{item.day}}</td>
         <td>{{item.lesson}}</td>
+        <td>{{item.time}}</td>
       </tr>
         {% endfor %}
      </tbody>
