@@ -1,132 +1,133 @@
-school,ageGroupFrom,ageGroupTo,level,lecturer,lesson,type,day,time,link,address,latitude,longitude
-"Centrum Tance,18,99,zaÄÃ¡teÄnÃ­ci,MÃ­Å¡a EfenberkovÃ¡,Aerial Hoop,kurz,StÅ™eda,17:00 - 18:00,https://www.centrumtance.cz/kurz/detail/AKRP62031/aerial-hoop-zacatecnici,""NovÃ¡kovÃ½ch 20a, Praha 8"",50.1033453,14.4766608"
-"Centrum Tance,18,99,mÃ­rnÄ› pokroÄilÃ­,KristÃ½na BlahetovÃ¡,Contemporary,kurz,ÃšterÃ½,19:00 - 20:00,https://www.centrumtance.cz/kurz/detail/MP62016/contemporary-dance-mirne-pokrocili-a-vyse,""NovÃ¡kovÃ½ch 20a, Praha 8"",50.1033453,14.4766608"
-"Centrum Tance,18,99,all levels,Eva Severine Å porcovÃ¡,Salsa a karibskÃ© tance,kurz,StÅ™eda,18:00 - 19:00,https://www.centrumtance.cz/kurz/detail/MP62016/contemporary-dance-mirne-pokrocili-a-vyse,""VÃ¡clavskÃ© nÃ¡mÄ›stÃ­ 36, Praha 1"",50.0817842,14.4262589"
-"Centrum Tance,18,99,all levels,Tukan,Contemporary,open class,StÅ™eda,20:00 - 21:15,https://www.centrumtance.cz/kurz/detail/MP63811/contemporary-dance,""VÃ¡clavskÃ© nÃ¡mÄ›stÃ­ 36, Praha 1"",50.0817842,14.4262589"
-"Centrum Tance,18,99,zaÄÃ¡teÄnÃ­ci,MÃ­Å¡a EfenberkovÃ¡,Pole dance,kurz,PondÄ›lÃ­,16:00 - 17:00,https://www.centrumtance.cz/kurz/detail/GP62808/pole-dance-zacatecnici,""PolitickÃ½ch vÄ›zÅˆÅ¯ 1658/8, 110 00 Praha"",50.0821036,14.4286128"
-"Contemporary,12,16,,AdÃ©la KoubkovÃ¡,BALET soutÄ›Å¾nÃ­ soubor HOT SHENOSE,kurz,ÄŒtvrtek,16:00 - 17:30,https://contemporary.cz/index.php?page=detail&did=30,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,10,12,,Vendula PoznarovÃ¡,Choreo Lab,open class,ÃšterÃ½,16:30 - 17:30,,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,12,15,,Barbora RokoszovÃ¡,Contemporary,open class,PÃ¡tek,16:30 - 18:00,,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,12,16,,Eva Å leisovÃ¡,CONTEMPORARY soutÄ›Å¾nÃ­ soubor HOT SHENOSE,kurz,ÄŒtvrtek,17:30 - 18:30,https://contemporary.cz/index.php?page=detail&did=30,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,12,16,,Eva Å leisovÃ¡,CONTEMPORARY soutÄ›Å¾nÃ­ soubor HOT SHENOSE,kurz,PondÄ›lÃ­,16:45 - 18:15,https://contemporary.cz/index.php?page=detail&did=30,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,12,16,,all levels,GYMNASTIKA soutÄ›Å¾nÃ­ soubor HOT SHENOSE,kurz,""ÃšterÃ½ "
-",16:45 - 18:00,https://contemporary.cz/index.php?page=detail&did=30,NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,12,17,,Eva Å leisovÃ¡,Street jazz,open class,PondÄ›lÃ­,""15:45 - 16:45"
-",,NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,12,17,,Petra HÃ¡jkovÃ¡,Improvizace,open class,PÃ¡tek,15:30 - 16:30,https://contemporary.cz/index.php?page=detail&did=57,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,13,99,,Petra DÄ›dkovÃ¡,Moderna,open class,StÅ™eda,16:30 - 18:00,,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,15,99,,Barbora RokoszovÃ¡,Contemporary,open class,PÃ¡tek,18:00 - 19:30,,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,mÃ­rnÄ› pokr. a pokroÄilÃ­,Fanda ÄŒech,STREET JAZZ,open class,PondÄ›lÃ­,19:30 - 20:30,https://contemporary.cz/index.php?page=detail&did=1,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,mÃ­rnÄ› pokr. a pokroÄilÃ­,Fanny BarrouquÃ¨re,CONTEMPORARY,open class,ÃšterÃ½,19:30 - 21:00,https://contemporary.cz/index.php?page=detail&did=83,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,mÃ­rnÄ› pokr. a pokroÄilÃ­,FÃ­fa,HIP HOP CHOREO,open class,StÅ™eda,19:30 - 20:30,https://contemporary.cz/index.php?page=detail&did=84,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,mÃ­rnÄ› pokr. a pokroÄilÃ­,Filip StanÄ›k,SMART BODY,open class,NedÄ›le,17:30 - 19:00,https://contemporary.cz/index.php?page=detail&did=12,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,mÃ­rnÄ› pokr. a pokroÄilÃ­,Filip StanÄ›k,SMART BODY,open class,NedÄ›le,19:00 - 20:30,https://contemporary.cz/index.php?page=detail&did=12,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,zaÄÃ¡teÄnÃ­ci,Ginger,FEMME FUSION,open class,ÃšterÃ½,18:30 - 19:30,https://contemporary.cz/index.php?page=detail&did=74,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,all levels,KÃ¡ka,LITEFEET,open class,PondÄ›lÃ­,18:30 - 19:30,https://contemporary.cz/index.php?page=detail&did=73,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,mÃ­rnÄ› pokr. a pokroÄilÃ­,Linda RanÄÃ¡kovÃ¡,CONTEMPORARY,open class,ÄŒtvrtek,18:30 - 20:00,https://contemporary.cz/index.php?page=detail&did=2,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,mÃ­rnÄ› pokr. a pokroÄilÃ­,SvÃ¡Å¥a KobzovÃ¡,SVÃÅ¤A STYL,open class,ÄŒtvrtek,20:00 - 21:00,https://contemporary.cz/index.php?page=detail&did=85,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,mÃ­rnÄ› pokr. a pokroÄilÃ­,Tukan,CONTEMPORARY FUSION,open class,StÅ™eda,18:00 - 19:30,https://contemporary.cz/index.php?page=detail&did=33,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,4,6,,Daniela LebedovÃ¡ KÅ™ehlovÃ¡,TaneÄnÃ­ prÅ¯prava,kurz,PondÄ›lÃ­,16:45 - 17:30,https://contemporary.cz/index.php?page=detail&did=36,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,4,6,,KristÃ½na PokornÃ¡,TaneÄnÃ­ prÅ¯prava,kurz,ÃšterÃ½,15:45 - 16:30,,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,4,6,,Petra HÃ¡jkovÃ¡,TaneÄnÃ­ prÅ¯prava,kurz,PÃ¡tek,16:30 - 17:30,https://contemporary.cz/index.php?page=detail&did=14,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,4,6,,Veronika HanuÅ¡ovÃ¡,TaneÄnÃ­ prÅ¯prava,kurz,StÅ™eda,14:30 - 15:30,https://contemporary.cz/index.php?page=detail&did=26,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,5,10,,Irena NolovÃ¡,JÃ³ga,kurz,PondÄ›lÃ­,15:45 - 16:45,,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Aneta SurkovÃ¡,Folkie,kurz,PÃ¡tek,15:30 - 16:30,https://contemporary.cz/index.php?page=detail&did=82,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Daniela LebedovÃ¡ KÅ™ehlovÃ¡,Contemporary,kurz,PondÄ›lÃ­,17:30 - 18:30,https://contemporary.cz/index.php?page=detail&did=79,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Dominika VaÅ¡Ã­ÄkovÃ¡,Balet,kurz,PondÄ›lÃ­,14:45 - 15:45,https://contemporary.cz/index.php?page=detail&did=25,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Eva Å leisovÃ¡,Street jazz,kurz,ÄŒtvrtek,16:30 - 17:30,https://contemporary.cz/index.php?page=detail&did=60,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,KristÃ½na PokornÃ¡,BALET soutÄ›Å¾nÃ­ soubor SMALL SHENOSE,kurz,ÃšterÃ½,14:45 - 15:45,https://contemporary.cz/index.php?page=detail&did=19,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Petra DÄ›dkovÃ¡,Latino,kurz,StÅ™eda,15:30 - 16:30,https://contemporary.cz/index.php?page=detail&did=15,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Petra HÃ¡jkovÃ¡,CONTEMPORARY soutÄ›Å¾nÃ­ soubor SMALL SHENOSE,kurz,""StÅ™eda"
-",14:00 - 15:30,https://contemporary.cz/index.php?page=detail&did=19,NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Petra HÃ¡jkovÃ¡,Contemporary,kurz,""StÅ™eda"
-",15:30 - 16:30,https://contemporary.cz/index.php?page=detail&did=51,NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Petra HÃ¡jkovÃ¡,CONTEMPORARY soutÄ›Å¾nÃ­ soubor SMALL SHENOSE,kurz,ÄŒtvrtek,15:00 - 16:00,https://contemporary.cz/index.php?page=detail&did=19,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Petra HÃ¡jkovÃ¡,Contemporary,kurz,PÃ¡tek,14:30 - 15:30,https://contemporary.cz/index.php?page=detail&did=80,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Veronika TÃ¶kÃ¶ly,Jazz dance,kurz,ÄŒtvrtek,15:30 - 16:30,https://contemporary.cz/index.php?page=detail&did=17,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,Veronika TÃ¶kÃ¶ly,Moderna,kurz,ÄŒtvrtek,14:30 - 15:30,https://contemporary.cz/index.php?page=detail&did=17,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,11,,?,GYMNASTIKA soutÄ›Å¾nÃ­ soubor SMALL SHENOSE,kurz,ÃšterÃ½,15:45 - 16:45,https://contemporary.cz/index.php?page=detail&did=19,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,15,zaÄÃ¡teÄnÃ­ci,Dwala,Break dance,open class,ÄŒtvrtek,17:30 - 18:30,https://contemporary.cz/index.php?page=detail&did=78,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,15,pokroÄilÃ­,Dwala,Break dance,open class,StÅ™eda,16:30 - 17:30,https://contemporary.cz/index.php?page=detail&did=21,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,7,15,,KÃ¡ka,Litefeet,open class,StÅ™eda,17:30 - 18:30,https://contemporary.cz/index.php?page=detail&did=81,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,2,5,,Irena NolovÃ¡,JÃ³gohrÃ¡tky,open class,PondÄ›lÃ­,15:00 - 15:45,https://contemporary.cz/index.php?page=detail&did=77,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,mÃ­rnÄ› pokr. a pokroÄilÃ­,NataÅ¡a NovotnÃ¡,GAGA/DANCERS,open class,PondÄ›lÃ­,18:15 - 19:30,https://contemporary.cz/index.php?page=detail&did=70,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,zaÄÃ¡teÄnÃ­ci,Patrik ÄŒermÃ¡k,Contemporary,kurz,ÃšterÃ½,18:00 - 19:30,https://contemporary.cz/index.php?page=detail&did=35,""NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Contemporary,18,99,zaÄÃ¡teÄnÃ­ci,Petra Å½ikovskÃ¡,NEW YORK CITY BALLET WORKOUT,open class,""ÄŒtvrtek"
-",18:30 - 19:30,https://contemporary.cz/index.php?page=detail&did=10,NÃ¡mÄ›stÃ­ MÃ­ru 820/9, 120 00 Praha 2"",50.0756294,14.4379411"
-"Dance Perfect,6,8,,AdÃ¡mkovÃ¡ Martina,TaneÄnÃ­ prÅ¯prava,kurz,ÃšterÃ½,17:00 - 18:00,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"",14.4180908"
-"Dance Perfect,2,4,,AdÃ¡mkovÃ¡ Martina,TaneÄnÃ­ prÅ¯prava,kurz,ÃšterÃ½,11:00 - 11:45,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,8,12,,QaÅ¡a,Street Jazz,kurz,StÅ™eda,15:30 - 16:30,https://www.danceperfect.cz/cz/kurz/deti/street-jazz,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,10,14,zaÄÃ¡teÄnÃ­ci,BenkovÃ¡ Andrea,Contemporary Dance,kurz,PÃ¡tek,15:00 - 16:30,https://www.danceperfect.cz/cz/kurz/deti/modern-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,10,14,,HanuÅ¡ovÃ¡ Veronika,Street Dance,kurz,StÅ™eda,16:30 - 17:30,https://www.danceperfect.cz/cz/kurz/deti/street-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,10,14,,HernychovÃ¡ Michaela,Junior Dance Company,kurz,PÃ¡tek,16:00 - 17:30,https://www.danceperfect.cz/cz/kurz/deti/modern-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,10,14,mÃ­rnÄ› pokroÄilÃ­,KÅ¡Ã­rovÃ¡ Tamara,Contemporary Dance,kurz,PÃ¡tek,17:00 - 18:30,https://www.danceperfect.cz/cz/kurz/deti/modern-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,10,14,mÃ­rnÄ› pokroÄilÃ­,VrublevskÃ¡ Viktoria,Balet pro dÄ›ti,kurz,StÅ™eda,16:30 - 18:00,https://www.danceperfect.cz/cz/kurz/deti/balet-pro-deti-ii,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,12,15,,MÃ¡Å¡a Michal,Hip Hop soutÄ›Å¾nÃ­ tÃ½m 1/2 ,kurz,ÃšterÃ½,17:00 - 18:30,https://www.danceperfect.cz/cz/kurz/deti/hip-hop-soutezni-tym,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,12,16,zaÄÃ¡teÄnÃ­ci,HorÄiÄkovÃ¡ Lucie,MTV Style,kurz,StÅ™eda,17:00 - 18:00,https://www.danceperfect.cz/cz/kurz/deti/mtv-style,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,12,16,,Å˜ehÃ¡kovÃ¡ Tereza,Street Dance,kurz,ÄŒtvrtek,18:00 - 19:00,https://www.danceperfect.cz/cz/kurz/deti/street-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,stÅ™ednÄ› pokroÄilÃ­,BorskÃ¡ Alice,Balet,open class,PÃ¡tek,16:30 - 18:00,https://www.danceperfect.cz/cz/kurz/dosp/balet,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,ÄŒervÃ­ÄkovÃ¡ PavlÃ­na,Balet,kurz,ÃšterÃ½,19:00 - 20:00,https://www.danceperfect.cz/cz/kurz/dosp/balet,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,ChybovÃ¡ Renata,Pilates,open class,Sobota,13:00 - 14:00,https://www.danceperfect.cz/cz/kurz/dosp/pilates,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,DÄ›diÄovÃ¡ Lucie,Pilates,open class,StÅ™eda,11:30 - 12:30,https://www.danceperfect.cz/cz/kurz/dosp/pilates,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,DÄ›diÄovÃ¡ Lucie,Port de Bras,open class,ÃšterÃ½,11:30 - 12:30,https://www.danceperfect.cz/cz/kurz/dosp/port-de-bras,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,DraÅ¡arovÃ¡ Martina,Reggaeton,open class,Sobota,15:30 - 16:30,https://www.danceperfect.cz/cz/kurz/dosp/reggaeton,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,DraÅ¡arovÃ¡ Martina,Reggaeton,kurz,StÅ™eda,18:00 - 19:00,https://www.danceperfect.cz/cz/kurz/dosp/reggaeton,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,stÅ™ednÄ› pokroÄilÃ­,HorÃ¡k JiÅ™Ã­,Balet pro mÃ­rnÄ›- pokroÄilÃ©,open class,StÅ™eda,10:00 - 11:30,https://www.danceperfect.cz/cz/kurz/dosp/balet-pro-profesionaly,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,stÅ™ednÄ› pokroÄilÃ­,HorÃ¡k JiÅ™Ã­,Balet,open class,ÃšterÃ½,20:00 - 21:30,https://www.danceperfect.cz/cz/kurz/dosp/balet,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,HorÄiÄkovÃ¡ Lucie,MTV Style,kurz,ÄŒtvrtek,19:00 - 20:00,https://www.danceperfect.cz/cz/kurz/dosp/mtv-style,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,HorÄiÄkovÃ¡ Lucie,Ladies Style,kurz,StÅ™eda,19:00 - 20:00,https://www.danceperfect.cz/cz/kurz/dosp/ladies-style,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,mÃ­rnÄ› pokroÄilÃ­,HrzalovÃ¡ Zuzana,Balet pro mÃ­rnÄ›- a pokroÄilÃ©,open class,PondÄ›lÃ­,10:00 - 11:30,https://www.danceperfect.cz/cz/kurz/dosp/balet-pro-profesionaly,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,Jandus Dominik,Modern Jazz,kurz,ÄŒtvrtek,19:00 - 20:30,https://www.danceperfect.cz/cz/kurz/dosp/modern-jazz,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,pokroÄilÃ­,JaneÄek VÃ¡clav,Balet,open class,PÃ¡tek,18:00 - 19:30,https://www.danceperfect.cz/cz/kurz/dosp/balet,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,KalouskovÃ¡ Hana,Total Barre,open class,StÅ™eda,19:00 - 20:00,https://www.danceperfect.cz/cz/kurz/dosp/total-barre,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,KalouskovÃ¡ Hana,Pilates,open class,StÅ™eda,18:00 - 19:00,https://www.danceperfect.cz/cz/kurz/dosp/pilates,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,KalouskovÃ¡ Hana,Pilates,open class,ÃšterÃ½,18:00 - 19:00,https://www.danceperfect.cz/cz/kurz/dosp/pilates,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,KalouskovÃ¡ Hana,Pilates,open class,PondÄ›lÃ­,11:30 - 12:30,https://www.danceperfect.cz/cz/kurz/dosp/pilates,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,KuÅ¥Ã¡k TomÃ¡Å¡,Jazz Dance,open class,Sobota,16:30 - 18:00,https://www.danceperfect.cz/cz/kurz/dosp/jazz-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,KuÅ¥Ã¡k TomÃ¡Å¡,Musical Dance,kurz,ÄŒtvrtek,20:00 - 21:30,https://www.danceperfect.cz/cz/kurz/dosp/musical-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,KuÅ¥Ã¡k TomÃ¡Å¡,Jazz Dance,kurz,PondÄ›lÃ­,19:30 - 21:00,https://www.danceperfect.cz/cz/kurz/dosp/jazz-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,LadzianskÃ¡ Nika,Modern Jazz,open class,Sobota,14:00 - 15:30,https://www.danceperfect.cz/cz/kurz/dosp/modern-jazz,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,LadzianskÃ¡ Nika,Street Dance,open class,Sobota,13:00 - 14:00,https://www.danceperfect.cz/cz/kurz/dosp/street-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,mÃ­rnÄ› pokroÄilÃ­,LadzianskÃ¡ Nika,Broadway Dance,kurz,ÃšterÃ½,19:30 - 21:00,https://www.danceperfect.cz/cz/kurz/dosp/broadway-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,LadzianskÃ¡ Nika,Street Dance,kurz,ÃšterÃ½,18:30 - 19:30,https://www.danceperfect.cz/cz/kurz/dosp/street-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,LadzianskÃ¡ Nika,Street Dance,kurz,PondÄ›lÃ­,18:30 - 19:30,https://www.danceperfect.cz/cz/kurz/dosp/street-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,Mandys PauerovÃ¡ Barbora,Balet,kurz,PondÄ›lÃ­,19:30 - 20:30,https://www.danceperfect.cz/cz/kurz/dosp/balet,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,Mandys PauerovÃ¡ Barbora,Pilates,open class,PondÄ›lÃ­,18:30 - 19:30,https://www.danceperfect.cz/cz/kurz/dosp/pilates,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,Mandys PauerovÃ¡ Barbora,Total Barre,open class,PondÄ›lÃ­,17:30 - 18:30,https://www.danceperfect.cz/cz/rozvrh-graficky#,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,mÃ­rnÄ› pokroÄilÃ­,OndraÅ¡Ã­kovÃ¡ VÄ›ra,Contemporary Dance,kurz,ÃšterÃ½,18:30 - 20:00,https://www.danceperfect.cz/cz/kurz/dosp/modern-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,QaÅ¡a,Pilates,open class,ÄŒtvrtek,17:30 - 18:30,https://www.danceperfect.cz/cz/kurz/dosp/pilates,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,mÃ­rnÄ› pokroÄilÃ­,RiedlovÃ¡ KateÅ™ina,Balet,kurz,ÄŒtvrtek,19:30 - 21:00,https://www.danceperfect.cz/cz/kurz/dosp/balet,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,RiedlovÃ¡ KateÅ™ina,Balet,kurz,ÄŒtvrtek,18:30 - 19:30,https://www.danceperfect.cz/cz/kurz/dosp/balet,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,""SolÃ¡Å™ovÃ¡ Dora """"Dee"""""",Dancehall,open class,ÄŒtvrtek,18:00 - 19:00,https://www.danceperfect.cz/cz/kurz/dosp/dancehall,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,""SolÃ¡Å™ovÃ¡ Dora """"Dee"""""",Dancehall,kurz,ÃšterÃ½,17:30 - 18:30,https://www.danceperfect.cz/cz/kurz/dosp/dancehall,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,mÃ­rnÄ› pokroÄilÃ­,Å rom RosÅ¥a,Contemporary Dance,kurz,StÅ™eda,18:30 - 20:00,https://www.danceperfect.cz/cz/kurz/dosp/modern-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,Å rom RosÅ¥a,80's Style,open class,StÅ™eda,17:30 - 18:30,https://www.danceperfect.cz/cz/kurz/dosp/80-s-style,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,Å rom RosÅ¥a,Contemporary Dance,kurz,PondÄ›lÃ­,19:00 - 20:30,https://www.danceperfect.cz/cz/kurz/dosp/modern-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,Å rom RosÅ¥a,Zumba,open class,PondÄ›lÃ­,18:00 - 19:00,https://www.danceperfect.cz/cz/kurz/dosp/zumba,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,mÃ­rnÄ› pokroÄilÃ­,Tancibudek MiloÅ¡,TaneÄnÃ­ pro dospÄ›lÃ©,kurz,StÅ™eda,20:00 - 21:30,https://www.danceperfect.cz/cz/kurz/dosp/tanecni-pro-dospele,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,all levels,VanÄÃ¡kovÃ¡ Romana,Power Yoga,open class,ÃšterÃ½,07:45 - 08:45,https://www.danceperfect.cz/cz/kurz/dosp/power-yoga,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,mÃ­rnÄ› pokroÄilÃ­,VrublevskÃ¡ Viktoria,Balet & Å¡piÄky,open class,Sobota,15:00 - 16:30,https://www.danceperfect.cz/cz/kurz/dosp/balet,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,18,99,zaÄÃ¡teÄnÃ­ci,VrublevskÃ¡ Viktoria,Balet zaÄÃ¡teÄnÃ­ci,open class,Sobota,14:00 - 15:00,https://www.danceperfect.cz/cz/kurz/dosp/balet,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,2,4,dÄ›ti,AdÃ¡mkovÃ¡ Martina,TaneÄnÃ­ prÅ¯prava,kurz,ÃšterÃ½,10:00 - 10:45,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,2,4,dÄ›ti,AdÃ¡mkovÃ¡ Martina,TaneÄnÃ­ prÅ¯prava,kurz,PondÄ›lÃ­,11:00 - 11:45,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,2,4,dÄ›ti,AdÃ¡mkovÃ¡ Martina,TaneÄnÃ­ prÅ¯prava,kurz,PondÄ›lÃ­,10:00 - 10:45,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,3,5,dÄ›ti,AdÃ¡mkovÃ¡ Martina,TaneÄnÃ­ prÅ¯prava,kurz,ÃšterÃ½,15:00 - 16:00,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,3,5,dÄ›ti,AdÃ¡mkovÃ¡ Martina,TaneÄnÃ­ prÅ¯prava,kurz,PondÄ›lÃ­,15:30 - 16:30,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,3,5,dÄ›ti,FrancovÃ¡ Tereza,TaneÄnÃ­ prÅ¯prava ,kurz,StÅ™eda,16:00 - 17:00,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,4,6,dÄ›ti,AdÃ¡mkovÃ¡ Martina,TaneÄnÃ­ prÅ¯prava,kurz,ÃšterÃ½,16:00 - 17:00,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,4,6,dÄ›ti,AdÃ¡mkovÃ¡ Martina,TaneÄnÃ­ prÅ¯prava,kurz,PondÄ›lÃ­,16:30 - 17:30,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,4,6,dÄ›ti,JanÄÃ­kovÃ¡ Dita,TaneÄnÃ­ prÅ¯prava ,kurz,ÄŒtvrtek,15:30 - 16:30,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,6,8,dÄ›ti,JanÄÃ­kovÃ¡ Dita,TaneÄnÃ­ prÅ¯prava,kurz,ÄŒtvrtek,16:30 - 17:30,https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,8,10,dÄ›ti,SeckÃ¡ Monika,ModernÃ­ tanec,kurz,PondÄ›lÃ­,17:30 - 18:30,https://www.danceperfect.cz/cz/kurz/deti/moderni-tanec,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,8,11,dÄ›ti,MÃ¡Å¡a Michal,Hip Hop soutÄ›Å¾nÃ­ tÃ½m 1/2,kurz,ÃšterÃ½,15:30 - 17:00,https://www.danceperfect.cz/cz/kurz/deti/hip-hop-soutezni-tym,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,8,12,dÄ›ti,LadzianskÃ¡ Nika,Mini Broadway,kurz,PondÄ›lÃ­,16:30 - 18:00,https://www.danceperfect.cz/cz/kurz/deti/mini-broadway,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,8,14,zaÄÃ¡teÄnÃ­ci,Weissmann JiÅ™Ã­,Akrobacie - zÃ¡klady,kurz,PÃ¡tek,16:00 - 17:00,https://www.danceperfect.cz/cz/kurz/deti/akrobacie,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,10,14,zaÄÃ¡teÄnÃ­ci,KoubkovÃ¡ AdÃ©la,Balet pro dÄ›ti,kurz,ÄŒtvrtek,17:00 - 18:00,https://www.danceperfect.cz/cz/kurz/deti/balet-pro-deti-ii,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,10,14,zaÄÃ¡teÄnÃ­ci,OttovÃ¡ Lenka,Contemporary Dance,kurz,ÃšterÃ½,16:00 - 17:30,https://www.danceperfect.cz/cz/kurz/deti/modern-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,10,14,mÃ­rnÄ› pokroÄilÃ­,OttovÃ¡ Lenka,Contemporary Dance,kurz,PondÄ›lÃ­,16:00 - 17:30,https://www.danceperfect.cz/cz/kurz/deti/modern-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,12,15,,""MatouÅ¡kovÃ¡ Martina """"Maya"""""",Hip Hop soutÄ›Å¾nÃ­ tÃ½m 2/2,kurz,ÄŒtvrtek,15:30 - 17:00,https://www.danceperfect.cz/cz/kurz/deti/hip-hop-soutezni-tym,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,6,10,zaÄÃ¡teÄnÃ­ci,KoubkovÃ¡ AdÃ©la,Balet pro dÄ›ti,kurz,StÅ™eda,15:30 - 16:30,https://www.danceperfect.cz/cz/kurz/deti/balet-pro-deti-6-10,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,8,11,,""MatouÅ¡kovÃ¡ Martina """"Maya"""""",Hip Hop soutÄ›Å¾nÃ­ tÃ½m 2/2,kurz,PÃ¡tek,14:30 - 16:00,https://www.danceperfect.cz/cz/kurz/deti/hip-hop-soutezni-tym,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,8,12,,""MatouÅ¡kovÃ¡ Martina """"Maya"""""",Street Dance,kurz,ÄŒtvrtek,17:00 - 18:00,https://www.danceperfect.cz/cz/kurz/deti/street-dance,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
-"Dance Perfect,8,14,mÃ­rnÄ› pokroÄilÃ­,KoubkovÃ¡ AdÃ©la,Balet pro dÄ›ti,kurz,ÄŒtvrtek,15:30 - 17:00,https://www.danceperfect.cz/cz/kurz/deti/balet-pro-deti-8-12,""NÃ¡rodnÃ­ 961/25, 110 00 StarÃ© MÄ›sto"",""50.0824394N, 14.4180908E"","
+school;ageGroupFrom;ageGroupTo;level;lecturer;lesson;type;day;time;link;address;PSC;"city_part
+";latitude;longitude
+Contemporary;10;12;;Vendula Poznarová;Choreo Lab;kurz;Úterı;16:30 - 17:30;https://contemporary.cz/index.php?page=detail&did=92;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;12;15;;Barbora Rokoszová;Contemporary;kurz;Pátek;16:30 - 18:00;https://contemporary.cz/index.php?page=detail&did=31;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;12;16;;Adéla Koubková;BALET soutìní soubor HOT SHENOSE;kurz;Ètvrtek;16:00 - 17:30;https://contemporary.cz/index.php?page=detail&did=30;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;12;16;;Eva Šleisová;CONTEMPORARY soutìní soubor HOT SHENOSE;kurz;Ètvrtek;17:30 - 18:30;https://contemporary.cz/index.php?page=detail&did=30;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;12;16;;Eva Šleisová;CONTEMPORARY soutìní soubor HOT SHENOSE;kurz;Pondìlí;16:45 - 18:15;https://contemporary.cz/index.php?page=detail&did=30;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;12;16;;all levels;GYMNASTIKA soutìní soubor HOT SHENOSE;kurz;"Úterı 
+";16:45 - 18:00;https://contemporary.cz/index.php?page=detail&did=30;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;12;17;;Eva Šleisová;Street jazz;kurz;Pondìlí;"15:45 - 16:45
+";https://contemporary.cz/index.php?page=detail&did=59;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;12;17;;Petra Hájková;Improvizace;kurz;Pátek;15:30 - 16:30;https://contemporary.cz/index.php?page=detail&did=57;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;13;99;;Petra Dìdková;Moderna;kurz;Støeda;16:30 - 18:00;https://contemporary.cz/index.php?page=detail&did=49;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;15;99;;Barbora Rokoszová;Contemporary;kurz;Pátek;18:00 - 19:30;https://contemporary.cz/index.php?page=detail&did=32;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;mírnì pokr. a pokroèilí;Fanda Èech;STREET JAZZ;open class;Pondìlí;19:30 - 20:30;https://contemporary.cz/index.php?page=detail&did=1;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;mírnì pokr. a pokroèilí;Fanny Barrouqu?re;CONTEMPORARY;open class;Úterı;19:30 - 21:00;https://contemporary.cz/index.php?page=detail&did=83;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;mírnì pokr. a pokroèilí;Fífa;HIP HOP CHOREO;open class;Støeda;19:30 - 20:30;https://contemporary.cz/index.php?page=detail&did=84;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;mírnì pokr. a pokroèilí;Filip Stanìk;SMART BODY;open class;Nedìle;17:30 - 19:00;https://contemporary.cz/index.php?page=detail&did=12;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;mírnì pokr. a pokroèilí;Filip Stanìk;SMART BODY;open class;Nedìle;19:00 - 20:30;https://contemporary.cz/index.php?page=detail&did=12;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;zaèáteèníci;Ginger;FEMME FUSION;open class;Úterı;18:30 - 19:30;https://contemporary.cz/index.php?page=detail&did=74;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;all levels;Káka;LITEFEET;open class;Pondìlí;18:30 - 19:30;https://contemporary.cz/index.php?page=detail&did=73;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;mírnì pokr. a pokroèilí;Linda Ranèáková;CONTEMPORARY;open class;Ètvrtek;18:30 - 20:00;https://contemporary.cz/index.php?page=detail&did=2;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;mírnì pokr. a pokroèilí;Sváa Kobzová;SVÁA STYL;open class;Ètvrtek;20:00 - 21:00;https://contemporary.cz/index.php?page=detail&did=85;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;mírnì pokr. a pokroèilí;Tukan;CONTEMPORARY FUSION;open class;Støeda;18:00 - 19:30;https://contemporary.cz/index.php?page=detail&did=33;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;4;6;dìti;Daniela Lebedová Køehlová;Taneèní prùprava;kurz;Pondìlí;16:45 - 17:30;https://contemporary.cz/index.php?page=detail&did=36;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;4;6;dìti;Kristına Pokorná;Taneèní prùprava;kurz;Úterı;15:45 - 16:30;https://contemporary.cz/index_box.php?page=reservation&lid=16;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;4;6;dìti;Petra Hájková;Taneèní prùprava;kurz;Pátek;16:30 - 17:30;https://contemporary.cz/index.php?page=detail&did=14;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;4;6;dìti;Veronika Hanušová;Taneèní prùprava;kurz;Støeda;14:30 - 15:30;https://contemporary.cz/index.php?page=detail&did=26;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;5;10;dìti;Irena Nolová;Jóga;kurz;Pondìlí;15:45 - 16:45;https://contemporary.cz/index_box.php?page=reservation&lid=20;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Aneta Surková;Folkie;kurz;Pátek;15:30 - 16:30;https://contemporary.cz/index.php?page=detail&did=82;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Daniela Lebedová Køehlová;Contemporary;kurz;Pondìlí;17:30 - 18:30;https://contemporary.cz/index.php?page=detail&did=79;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Dominika Vašíèková;Balet;kurz;Pondìlí;14:45 - 15:45;https://contemporary.cz/index.php?page=detail&did=25;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Eva Šleisová;Street jazz;kurz;Ètvrtek;16:30 - 17:30;https://contemporary.cz/index.php?page=detail&did=60;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Kristına Pokorná;BALET soutìní soubor SMALL SHENOSE;kurz;Úterı;14:45 - 15:45;https://contemporary.cz/index.php?page=detail&did=19;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Petra Dìdková;Latino;kurz;Støeda;15:30 - 16:30;https://contemporary.cz/index.php?page=detail&did=15;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Petra Hájková;CONTEMPORARY soutìní soubor SMALL SHENOSE;kurz;"Støeda
+";14:00 - 15:30;https://contemporary.cz/index.php?page=detail&did=19;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Petra Hájková;Contemporary;kurz;"Støeda
+";15:30 - 16:30;https://contemporary.cz/index.php?page=detail&did=51;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Petra Hájková;CONTEMPORARY soutìní soubor SMALL SHENOSE;kurz;Ètvrtek;15:00 - 16:00;https://contemporary.cz/index.php?page=detail&did=19;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Petra Hájková;Contemporary;kurz;Pátek;14:30 - 15:30;https://contemporary.cz/index.php?page=detail&did=80;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Veronika Tököly;Jazz dance;kurz;Ètvrtek;15:30 - 16:30;https://contemporary.cz/index.php?page=detail&did=17;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;Veronika Tököly;Moderna;kurz;Ètvrtek;14:30 - 15:30;https://contemporary.cz/index.php?page=detail&did=17;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;11;dìti;?;GYMNASTIKA soutìní soubor SMALL SHENOSE;kurz;Úterı;15:45 - 16:45;https://contemporary.cz/index.php?page=detail&did=19;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;15;zaèáteèníci;Dwala;Break dance;open class;Ètvrtek;17:30 - 18:30;https://contemporary.cz/index.php?page=detail&did=78;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;15;pokroèilí;Dwala;Break dance;open class;Støeda;16:30 - 17:30;https://contemporary.cz/index.php?page=detail&did=21;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;7;15;dìti;Káka;Litefeet;open class;Støeda;17:30 - 18:30;https://contemporary.cz/index.php?page=detail&did=81;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;2;5;dìti;Irena Nolová;Jógohrátky;open class;Pondìlí;15:00 - 15:45;https://contemporary.cz/index.php?page=detail&did=77;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;mírnì pokr. a pokroèilí;Nataša Novotná;GAGA/DANCERS;open class;Pondìlí;18:15 - 19:30;https://contemporary.cz/index.php?page=detail&did=70;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;zaèáteèníci;Patrik Èermák;Contemporary;kurz;Úterı;18:00 - 19:30;https://contemporary.cz/index.php?page=detail&did=35;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Contemporary;18;99;zaèáteèníci;Petra ikovská;NEW YORK CITY BALLET WORKOUT;open class;"Ètvrtek
+";18:30 - 19:30;https://contemporary.cz/index.php?page=detail&did=10;Námìstí Míru 820/9;12000;Praha 2;50.0756294;14.4379411
+Dance Perfect;2;4;;Adámková Martina;Taneèní prùprava;kurz;Úterı;11:00 - 11:45;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;8;12;;Qaša;Street Jazz;kurz;Støeda;15:30 - 16:30;https://www.danceperfect.cz/cz/kurz/deti/street-jazz;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;10;14;zaèáteèníci;Benková Andrea;Contemporary Dance;kurz;Pátek;15:00 - 16:30;https://www.danceperfect.cz/cz/kurz/deti/modern-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;10;14;;Hanušová Veronika;Street Dance;kurz;Støeda;16:30 - 17:30;https://www.danceperfect.cz/cz/kurz/deti/street-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;10;14;;Hernychová Michaela;Junior Dance Company;kurz;Pátek;16:00 - 17:30;https://www.danceperfect.cz/cz/kurz/deti/modern-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;10;14;mírnì pokroèilí;Kšírová Tamara;Contemporary Dance;kurz;Pátek;17:00 - 18:30;https://www.danceperfect.cz/cz/kurz/deti/modern-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;10;14;mírnì pokroèilí;Vrublevská Viktoria;Balet pro dìti;kurz;Støeda;16:30 - 18:00;https://www.danceperfect.cz/cz/kurz/deti/balet-pro-deti-ii;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;12;15;;Máša Michal;Hip Hop soutìní tım 1/2 ;kurz;Úterı;17:00 - 18:30;https://www.danceperfect.cz/cz/kurz/deti/hip-hop-soutezni-tym;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;12;16;zaèáteèníci;Horèièková Lucie;MTV Style;kurz;Støeda;17:00 - 18:00;https://www.danceperfect.cz/cz/kurz/deti/mtv-style;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;12;16;;Øeháková Tereza;Street Dance;kurz;Ètvrtek;18:00 - 19:00;https://www.danceperfect.cz/cz/kurz/deti/street-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;støednì pokroèilí;Borská Alice;Balet;open class;Pátek;16:30 - 18:00;https://www.danceperfect.cz/cz/kurz/dosp/balet;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Èervíèková Pavlína;Balet;kurz;Úterı;19:00 - 20:00;https://www.danceperfect.cz/cz/kurz/dosp/balet;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Chybová Renata;Pilates;open class;Sobota;13:00 - 14:00;https://www.danceperfect.cz/cz/kurz/dosp/pilates;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Dìdièová Lucie;Pilates;open class;Støeda;11:30 - 12:30;https://www.danceperfect.cz/cz/kurz/dosp/pilates;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Dìdièová Lucie;Port de Bras;open class;Úterı;11:30 - 12:30;https://www.danceperfect.cz/cz/kurz/dosp/port-de-bras;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Drašarová Martina;Reggaeton;open class;Sobota;15:30 - 16:30;https://www.danceperfect.cz/cz/kurz/dosp/reggaeton;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Drašarová Martina;Reggaeton;kurz;Støeda;18:00 - 19:00;https://www.danceperfect.cz/cz/kurz/dosp/reggaeton;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;støednì pokroèilí;Horák Jiøí;Balet pro mírnì- pokroèilé;open class;Støeda;10:00 - 11:30;https://www.danceperfect.cz/cz/kurz/dosp/balet-pro-profesionaly;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;støednì pokroèilí;Horák Jiøí;Balet;open class;Úterı;20:00 - 21:30;https://www.danceperfect.cz/cz/kurz/dosp/balet;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Horèièková Lucie;MTV Style;kurz;Ètvrtek;19:00 - 20:00;https://www.danceperfect.cz/cz/kurz/dosp/mtv-style;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Horèièková Lucie;Ladies Style;kurz;Støeda;19:00 - 20:00;https://www.danceperfect.cz/cz/kurz/dosp/ladies-style;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;mírnì pokroèilí;Hrzalová Zuzana;Balet pro mírnì- a pokroèilé;open class;Pondìlí;10:00 - 11:30;https://www.danceperfect.cz/cz/kurz/dosp/balet-pro-profesionaly;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Jandus Dominik;Modern Jazz;kurz;Ètvrtek;19:00 - 20:30;https://www.danceperfect.cz/cz/kurz/dosp/modern-jazz;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;pokroèilí;Janeèek Václav;Balet;open class;Pátek;18:00 - 19:30;https://www.danceperfect.cz/cz/kurz/dosp/balet;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Kalousková Hana;Total Barre;open class;Støeda;19:00 - 20:00;https://www.danceperfect.cz/cz/kurz/dosp/total-barre;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Kalousková Hana;Pilates;open class;Støeda;18:00 - 19:00;https://www.danceperfect.cz/cz/kurz/dosp/pilates;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Kalousková Hana;Pilates;open class;Úterı;18:00 - 19:00;https://www.danceperfect.cz/cz/kurz/dosp/pilates;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Kalousková Hana;Pilates;open class;Pondìlí;11:30 - 12:30;https://www.danceperfect.cz/cz/kurz/dosp/pilates;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Kuák Tomáš;Jazz Dance;open class;Sobota;16:30 - 18:00;https://www.danceperfect.cz/cz/kurz/dosp/jazz-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Kuák Tomáš;Musical Dance;kurz;Ètvrtek;20:00 - 21:30;https://www.danceperfect.cz/cz/kurz/dosp/musical-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Kuák Tomáš;Jazz Dance;kurz;Pondìlí;19:30 - 21:00;https://www.danceperfect.cz/cz/kurz/dosp/jazz-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Ladzianská Nika;Modern Jazz;open class;Sobota;14:00 - 15:30;https://www.danceperfect.cz/cz/kurz/dosp/modern-jazz;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Ladzianská Nika;Street Dance;open class;Sobota;13:00 - 14:00;https://www.danceperfect.cz/cz/kurz/dosp/street-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;mírnì pokroèilí;Ladzianská Nika;Broadway Dance;kurz;Úterı;19:30 - 21:00;https://www.danceperfect.cz/cz/kurz/dosp/broadway-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Ladzianská Nika;Street Dance;kurz;Úterı;18:30 - 19:30;https://www.danceperfect.cz/cz/kurz/dosp/street-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Ladzianská Nika;Street Dance;kurz;Pondìlí;18:30 - 19:30;https://www.danceperfect.cz/cz/kurz/dosp/street-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Mandys Pauerová Barbora;Balet;kurz;Pondìlí;19:30 - 20:30;https://www.danceperfect.cz/cz/kurz/dosp/balet;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Mandys Pauerová Barbora;Pilates;open class;Pondìlí;18:30 - 19:30;https://www.danceperfect.cz/cz/kurz/dosp/pilates;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Mandys Pauerová Barbora;Total Barre;open class;Pondìlí;17:30 - 18:30;https://www.danceperfect.cz/cz/rozvrh-graficky#;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;mírnì pokroèilí;Ondrašíková Vìra;Contemporary Dance;kurz;Úterı;18:30 - 20:00;https://www.danceperfect.cz/cz/kurz/dosp/modern-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Qaša;Pilates;open class;Ètvrtek;17:30 - 18:30;https://www.danceperfect.cz/cz/kurz/dosp/pilates;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;mírnì pokroèilí;Riedlová Kateøina;Balet;kurz;Ètvrtek;19:30 - 21:00;https://www.danceperfect.cz/cz/kurz/dosp/balet;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Riedlová Kateøina;Balet;kurz;Ètvrtek;18:30 - 19:30;https://www.danceperfect.cz/cz/kurz/dosp/balet;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;"Soláøová Dora ""Dee""";Dancehall;open class;Ètvrtek;18:00 - 19:00;https://www.danceperfect.cz/cz/kurz/dosp/dancehall;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;"Soláøová Dora ""Dee""";Dancehall;kurz;Úterı;17:30 - 18:30;https://www.danceperfect.cz/cz/kurz/dosp/dancehall;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;mírnì pokroèilí;Šrom Rosa;Contemporary Dance;kurz;Støeda;18:30 - 20:00;https://www.danceperfect.cz/cz/kurz/dosp/modern-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Šrom Rosa;80's Style;open class;Støeda;17:30 - 18:30;https://www.danceperfect.cz/cz/kurz/dosp/80-s-style;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Šrom Rosa;Contemporary Dance;kurz;Pondìlí;19:00 - 20:30;https://www.danceperfect.cz/cz/kurz/dosp/modern-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Šrom Rosa;Zumba;open class;Pondìlí;18:00 - 19:00;https://www.danceperfect.cz/cz/kurz/dosp/zumba;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;mírnì pokroèilí;Tancibudek Miloš;Taneèní pro dospìlé;kurz;Støeda;20:00 - 21:30;https://www.danceperfect.cz/cz/kurz/dosp/tanecni-pro-dospele;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;all levels;Vanèáková Romana;Power Yoga;open class;Úterı;07:45 - 08:45;https://www.danceperfect.cz/cz/kurz/dosp/power-yoga;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;mírnì pokroèilí;Vrublevská Viktoria;Balet & špièky;open class;Sobota;15:00 - 16:30;https://www.danceperfect.cz/cz/kurz/dosp/balet;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;18;99;zaèáteèníci;Vrublevská Viktoria;Balet zaèáteèníci;open class;Sobota;14:00 - 15:00;https://www.danceperfect.cz/cz/kurz/dosp/balet;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;2;4;dìti;Adámková Martina;Taneèní prùprava;kurz;Úterı;10:00 - 10:45;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;2;4;dìti;Adámková Martina;Taneèní prùprava;kurz;Pondìlí;11:00 - 11:45;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;2;4;dìti;Adámková Martina;Taneèní prùprava;kurz;Pondìlí;10:00 - 10:45;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;3;5;dìti;Adámková Martina;Taneèní prùprava;kurz;Úterı;15:00 - 16:00;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;3;5;dìti;Adámková Martina;Taneèní prùprava;kurz;Pondìlí;15:30 - 16:30;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;3;5;dìti;Francová Tereza;Taneèní prùprava ;kurz;Støeda;16:00 - 17:00;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;4;6;dìti;Adámková Martina;Taneèní prùprava;kurz;Úterı;16:00 - 17:00;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;4;6;dìti;Adámková Martina;Taneèní prùprava;kurz;Pondìlí;16:30 - 17:30;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;4;6;dìti;Janèíková Dita;Taneèní prùprava ;kurz;Ètvrtek;15:30 - 16:30;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;6;8;dìti;Adámková Martina;Taneèní prùprava;kurz;Úterı;17:00 - 18:00;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;6;8;dìti;Janèíková Dita;Taneèní prùprava;kurz;Ètvrtek;16:30 - 17:30;https://www.danceperfect.cz/cz/kurz/deti/tanecni-pruprava;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;8;10;dìti;Secká Monika;Moderní tanec;kurz;Pondìlí;17:30 - 18:30;https://www.danceperfect.cz/cz/kurz/deti/moderni-tanec;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;8;11;dìti;Máša Michal;Hip Hop soutìní tım 1/2;kurz;Úterı;15:30 - 17:00;https://www.danceperfect.cz/cz/kurz/deti/hip-hop-soutezni-tym;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;8;12;dìti;Ladzianská Nika;Mini Broadway;kurz;Pondìlí;16:30 - 18:00;https://www.danceperfect.cz/cz/kurz/deti/mini-broadway;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;8;14;zaèáteèníci;Weissmann Jiøí;Akrobacie - základy;kurz;Pátek;16:00 - 17:00;https://www.danceperfect.cz/cz/kurz/deti/akrobacie;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;10;14;zaèáteèníci;Koubková Adéla;Balet pro dìti;kurz;Ètvrtek;17:00 - 18:00;https://www.danceperfect.cz/cz/kurz/deti/balet-pro-deti-ii;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;10;14;zaèáteèníci;Ottová Lenka;Contemporary Dance;kurz;Úterı;16:00 - 17:30;https://www.danceperfect.cz/cz/kurz/deti/modern-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;10;14;mírnì pokroèilí;Ottová Lenka;Contemporary Dance;kurz;Pondìlí;16:00 - 17:30;https://www.danceperfect.cz/cz/kurz/deti/modern-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;12;15;dìti;"Matoušková Martina ""Maya""";Hip Hop soutìní tım 2/2;kurz;Ètvrtek;15:30 - 17:00;https://www.danceperfect.cz/cz/kurz/deti/hip-hop-soutezni-tym;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;6;10;zaèáteèníci;Koubková Adéla;Balet pro dìti;kurz;Støeda;15:30 - 16:30;https://www.danceperfect.cz/cz/kurz/deti/balet-pro-deti-6-10;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;8;11;dìti;"Matoušková Martina ""Maya""";Hip Hop soutìní tım 2/2;kurz;Pátek;14:30 - 16:00;https://www.danceperfect.cz/cz/kurz/deti/hip-hop-soutezni-tym;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;8;12;dìti;"Matoušková Martina ""Maya""";Street Dance;kurz;Ètvrtek;17:00 - 18:00;https://www.danceperfect.cz/cz/kurz/deti/street-dance;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Dance Perfect;8;14;mírnì pokroèilí;Koubková Adéla;Balet pro dìti;kurz;Ètvrtek;15:30 - 17:00;https://www.danceperfect.cz/cz/kurz/deti/balet-pro-deti-8-12;Národní 961/25;11000;Praha 1;50.0824394;14.4180908
+Centrum Tance;18;99;zaèáteèníci;Míša Efenberková;Aerial Hoop;kurz;Støeda;17:00 - 18:00;https://www.centrumtance.cz/kurz/detail/AKRP62031/aerial-hoop-zacatecnici;Novákovıch 20a;18000;Praha 8;50.1033453;14.4766608
+Centrum Tance;18;99;mírnì pokroèilí;Kristına Blahetová;Contemporary;kurz;Úterı;19:00 - 20:00;https://www.centrumtance.cz/kurz/detail/MP62016/contemporary-dance-mirne-pokrocili-a-vyse;Novákovıch 20a;18000;Praha 8;50.1033453;14.4766608
+Centrum Tance;18;99;zaèáteèníci;Míša Efenberková;Pole dance;kurz;Pondìlí;16:00 - 17:00;https://www.centrumtance.cz/kurz/detail/GP62808/pole-dance-zacatecnici;Politickıch vìzòù 1658/8;11000;Praha 1;50.0821036;14.4286128
+Centrum Tance;18;99;all levels;Tukan;Contemporary;open class;Støeda;20:00 - 21:15;https://www.centrumtance.cz/kurz/detail/MP63811/contemporary-dance;Václavské námìstí 36;11000;Praha 1;50.0817842;14.4262589
+Centrum Tance;18;99;all levels;Eva Severine Šporcová;Salsa a karibské tance;kurz;Støeda;18:00 - 19:00;https://www.centrumtance.cz/kurz/detail/MP62016/contemporary-dance-mirne-pokrocili-a-vyse;Václavské námìstí 36;11000;Praha 1;50.0817842;14.4262589
