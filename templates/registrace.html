@@ -1,1 +1,35 @@
-<!--registra lekce-->
+<!--registrace lekce-->
+{% from "form_helpers.html" import render_field %}
+{% extends "layout.html" %}
+{% block title %}Vložte svůj kurz{% endblock %}
+{% block body %}
+
+<div class="form">
+  <form method="POST" action="{{ url_for('main.add_course') }}">
+
+    {{ render_field(form.lesson) }}
+    {{ render_field(form.lecturer) }}
+    {{ render_field(form.studio) }}
+    {{ render_field(form.day) }}
+    {{ render_field(form.time_from) }}
+    {{ render_field(form.time_to) }}
+    {{ render_field(form.age_group) }}
+    {{ render_field(form.level) }}
+    {{ render_field(form.address) }}
+    {{ render_field(form.address.city) }}
+    {{ render_field(form.link) }}
+    {{ render_field(form.email_address) }}
+    
+ 
+    <div>
+      <p class="buttons">
+        <input tabindex=1 type="submit" value="Odeslat" class="btn btn-default">
+      </p>
+    </div>
+  </form>
+  </div>
+
+
+
+
+{% endblock %}
