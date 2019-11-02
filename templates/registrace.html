@@ -4,7 +4,7 @@
 {% block title %}Vložte svůj kurz{% endblock %}
 {% block body %}
 
-<div class="form">
+<div class="form col-sm-6 offset-3" style="margin-top:20px ;">
   <form method="POST" action="{{ url_for('add_course') }}">
 
     {{ render_field(form.lesson) }}
