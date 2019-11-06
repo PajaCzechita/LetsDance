@@ -46,7 +46,7 @@ def get_cityType():
     data = cur.fetchall()
     return data
 
-def get_search(city_part, age, lesson, monday, tuesday, wednesday, thursday, friday, saturday, sunday):
+def get_search(city_part, age, school, lesson, monday, tuesday, wednesday, thursday, friday, saturday, sunday):
     sql = """ SELECT * FROM prehled WHERE id IS NOT NULL""" 
     parameters = []
     if city_part:
@@ -56,6 +56,10 @@ def get_search(city_part, age, lesson, monday, tuesday, wednesday, thursday, fri
     if age:
         command = " AND \"ageGroupFrom\" <= %s AND \"ageGroupTo\" >= %s"
         parameters += [age,age]
+        sql=sql + command
+    if school:
+        command = " AND \"school\" = %s"
+        parameters += [school]
         sql=sql + command
     if lesson:
         command = " AND \"lesson\" = %s"

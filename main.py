@@ -23,7 +23,7 @@ def submit_formular():
     nedele = request.form.get('Den_Nedele')
     lekce = request.form['lekce']
     return render_template('formular.html', type=db_functions.get_lectureType(), studio=db_functions.get_studioType(), 
-                           city=db_functions.get_cityType(), search=db_functions.get_search(city, vek, lekce, pondeli, utery, streda, ctvrtek, patek, sobota, nedele), results=True)
+                           city=db_functions.get_cityType(), search=db_functions.get_search(city, vek, studio, lekce, pondeli, utery, streda, ctvrtek, patek, sobota, nedele), results=True)
 
 @application.route('/')
 def show_layout():
