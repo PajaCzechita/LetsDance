@@ -13,7 +13,7 @@ def get_db():
     return conn 
 
 def get_lectureType():
-    sql = """SELECT lesson FROM prehled GROUP BY lesson"""
+    sql = """SELECT lesson FROM prehled GROUP BY lesson ORDER BY lesson ASC"""
     conn = get_db()
     cur = conn.cursor()
     cur.execute(sql)
@@ -46,7 +46,7 @@ def get_cityType():
     data = cur.fetchall()
     return data
 
-def get_search(city_part, age, lesson, day):
+def get_search(city_part, age, lesson, monday, tuesday, wednesday, thursday, friday, saturday, sunday):
     sql = """ SELECT * FROM prehled WHERE id IS NOT NULL""" 
     parameters = []
     if city_part:
@@ -61,10 +61,33 @@ def get_search(city_part, age, lesson, day):
         command = " AND \"lesson\" = %s"
         parameters += [lesson]
         sql=sql + command
-    if day:
-        command = " AND \"day\" = %s"
-        parameters += [day]
+    days = []
+    if monday:
+        days.append("\"day\" = %s")
+        parameters += ["Pondělí"]
+    if tuesday:
+        days.append("\"day\" = %s")
+        parameters += ["Úterý"]
+    if wednesday:
+        days.append("\"day\" = %s")
+        parameters += ["Středa"]
+    if thursday:
+        days.append("\"day\" = %s")
+        parameters += ["Čtvrtek"]
+    if friday:
+        days.append("\"day\" = %s")
+        parameters += ["Pátek"]
+    if saturday:
+        days.append("\"day\" = %s")
+        parameters += ["Sobota"]
+    if sunday:
+        days.append("\"day\" = %s")
+        parameters += ["Neděle"]
+    if days:
+        command = " AND (" + " OR ".join(days) + ")"
         sql=sql + command
+    
+    
     conn = get_db()
     cur = conn.cursor()
     cur.execute(sql, parameters)

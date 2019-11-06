@@ -7,17 +7,23 @@ application = Flask('letsdance')
 @application.route('/formular')
 def show_formular():
     return render_template('formular.html', type=db_functions.get_lectureType(), studio=db_functions.get_studioType(),
-                           city=db_functions.get_cityType(), search=[])
+                           city=db_functions.get_cityType(), search=[], results=False)
 
 @application.route('/hledani', methods=['POST'])
 def submit_formular():
     city = request.form['city']
     vek = request.form['vek']
     studio = request.form['studio']
-    den = request.form['den']
+    pondeli = request.form.get('Den_Pondeli')
+    utery = request.form.get('Den_Utery')
+    streda = request.form.get('Den_Streda')
+    ctvrtek = request.form.get('Den_Ctvrtek')
+    patek = request.form.get('Den_Patek')
+    sobota = request.form.get('Den_Sobota')
+    nedele = request.form.get('Den_Nedele')
     lekce = request.form['lekce']
     return render_template('formular.html', type=db_functions.get_lectureType(), studio=db_functions.get_studioType(), 
-                           city=db_functions.get_cityType(), search=db_functions.get_search(city, vek, lekce, den))
+                           city=db_functions.get_cityType(), search=db_functions.get_search(city, vek, lekce, pondeli, utery, streda, ctvrtek, patek, sobota, nedele), results=True)
 
 @application.route('/')
 def show_layout():
