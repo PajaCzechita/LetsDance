@@ -34,9 +34,13 @@ def get_lesson():
 
 
 @application.route('/')
-def show_layout():
-    return render_template('layout.html')
+def show_index():
+    return render_template('index.html')
 
+@application.route('/about')
+def show_about():
+    return render_template('about.html')
+    
 @application.route('/registrace', methods = ['POST', 'GET'])
 def add_course():
     form = RegistrationForm(csrf_enabled = False)
@@ -59,7 +63,3 @@ def add_course():
         print("Inserted row as ID " + str(id))
         return redirect (url_for ("seznam"))
     return render_template('registrace.html', form = form)
-
-
-
-

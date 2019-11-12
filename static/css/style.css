@@ -4,3 +4,54 @@ body {
 .bg-pink {
     background-color: black;
 }
+
+.logo {
+  width: 40%; 
+}
+.header {
+  text-align: center;
+  color: rebeccapurple;
+  }
+
+.buttons {
+  width: 80%; 
+  margin: auto;
+  }
+
+  
+.btn {
+  display: inline-block;
+  width:25% !important;
+  text-align: center;
+  padding: 15%;
+}
+
+/*
+
+.btn-default{
+  width: 10%; nefunguje*/
+
+
+.btn-registrace {
+  background-image: url('/static/imgs/insert.png');
+  background-size: cover;
+  background-position: center;
+  width: 20%; /*negunguje, pokud v souhrnu nepresahne asi 80%*/
+  padding-right: 15%;
+}
+
+.btn-about {
+  background-image: url('/static/imgs/about.png');
+  background-size: cover;
+  background-position: center;
+  width: 20%;
+  padding-right: 10%;
+}
+
+.btn-formular{
+  background-image: url('/static/imgs/search.svg');
+  background-size: cover;
+  background-position: center;
+  width: 20%;
+  padding-left: 5%;
+}

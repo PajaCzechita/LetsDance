@@ -14,7 +14,7 @@ class RegistrationForm(FlaskForm):
     level = SelectField ("Náročnost", choices = [("Beginners", "Začátečníci"), ("PreIntermediate", "Mírně pokročilí"),("Intermediate", "Pokročilí"),("AllLevels", "All Levels")])
     course_type = SelectField ("Typ lekce", choices = [("Openclass", "Open Class"), ("Course", "Kurz")])
     address = StringField ("Ulice a č.p.", validators = [InputRequired(message = "Vložte pouze ulici a číslo popisné / orientační.")])
-    address_city = SelectField ("Vyber obvod Prahy", choices = [("P1", "Praha 1"), ("P2", "Praha 2"),("P3", "Praha 3"),("P4", "Praha 4"),("P5", "Praha 5"),("P6", "Praha 6"),("P7", "Praha 7"), ("P8", "Praha 8"), ("P9", "Praha 9"),("P10", "Praha 10")])
-     #fce get gps, aby nám to dohledalo souřadnic
+    address_city = SelectField ("Vyber obvod Prahy", choices = [("Praha 1", "Praha 1"), ("Praha 2", "Praha 2"),("Praha 3", "Praha 3"),("Praha 4", "Praha 4"),("Praha 5", "Praha 5"),("Praha 6", "Praha 6"),("Praha 7", "Praha 7"), ("Praha 8", "Praha 8"), ("Praha 9", "Praha 9"),("Praha 10", "Praha 10")])
+     #fce get gps, aby nám to dohledalo souřadnice
     link = StringField ("Link na kurz/lekci", validators = [InputRequired(message = "Vlož odkaz na lekci / kurz / rozvrh.")])
     email_address = StringField ("E-mailová adresa vkladatele", validators = [DataRequired(message = "Napiš svou kontaktní e-mailovou adresu."), Email(message = "Takhle by Ti email nepřišel, oprav si to prosím."), Length (min=4, max = 100)])

@@ -340,7 +340,10 @@ h6 {
 }
 .h1,
 h1 {
-  font-size: 2.5rem;
+  color: rgb(181, 39, 98);
+  font-size: 3.5rem;
+  text-shadow: 3px 2px rgb(79, 11, 79);
+  text-decoration: underline;
 }
 .h2,
 h2 {
