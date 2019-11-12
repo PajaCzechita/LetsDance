@@ -22,8 +22,16 @@ def submit_formular():
     sobota = request.form.get('Den_Sobota')
     nedele = request.form.get('Den_Nedele')
     lekce = request.form['lekce']
-    return render_template('formular.html', type=db_functions.get_lectureType(), studio=db_functions.get_studioType(), 
-                           city=db_functions.get_cityType(), search=db_functions.get_search(city, vek, studio, lekce, pondeli, utery, streda, ctvrtek, patek, sobota, nedele), results=True)
+    return render_template('vysledky_vyhledavani.html', search=db_functions.get_search(city, vek, studio, lekce, pondeli, utery, streda, ctvrtek, patek, sobota, nedele), results=True)
+
+@application.route('/seznam')
+def get_lesson():
+    expectation_table = db_functions.get_studios()
+    #print(expectation_table)
+    return render_template("list.html",
+    expectation_table=expectation_table
+    )
+
 
 @application.route('/')
 def show_layout():
@@ -49,6 +57,9 @@ def add_course():
           form.email_address.data,
           )
         print("Inserted row as ID " + str(id))
-        return redirect (url_for ("show_formular"))
+        return redirect (url_for ("seznam"))
     return render_template('registrace.html', form = form)
+
+
+
 

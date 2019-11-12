@@ -98,3 +98,11 @@ def get_search(city_part, age, school, lesson, monday, tuesday, wednesday, thurs
     data = cur.fetchall()
     return data
 
+def get_studios():
+    sql = """SELECT * FROM public.seznam_skol"""
+    conn = get_db()
+    cur = conn.cursor()
+    cur.execute(sql)
+    family_table = cur.fetchall()
+    return family_table
+
