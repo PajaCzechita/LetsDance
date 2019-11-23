@@ -4,7 +4,7 @@
 {% block title %}Vložte svůj kurz{% endblock %}
 {% block body %}
 
-<div class="form col-sm-6 offset-3" style="margin-top:20px ;">
+<div class="form col-sm-8 offset-2" style="margin-top:20px ;">
   <form method="POST" action="{{ url_for('add_course') }}">
 
     {{ render_field(form.lesson) }}
@@ -23,9 +23,7 @@
     
  
     <div>
-      <p class="buttons">
         <input tabindex=1 type="submit" value="Odeslat" class="btn btn-default">
-      </p>
     </div>
   </form>
   </div>

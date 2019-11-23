@@ -1,8 +1,18 @@
+/* úprava elementů */
 body {
-    background-color: bisque;
+    background-color: whitesmoke;
 }
+
+h1 {
+  text-shadow: none;
+  color: #80003d;
+  font-size: 2rem;
+}
+
+/* úprava tříd */
+
 .bg-pink {
-    background-color: black;
+    background-color: #80003d;
 }
 
 .logo {
@@ -11,19 +21,31 @@ body {
 .header {
   text-align: center;
   color: rebeccapurple;
-  }
+}
+
+.title-motto a {
+  color: #800080;
+}
+
+.img-left {
+  float: left;
+  margin-right: 10px;
+}
 
 .buttons {
-  width: 80%; 
+  width: 10%; 
   margin: auto;
   }
 
   
 .btn {
   display: inline-block;
-  width:25% !important;
+  width: 100px !important;
+  height: 50px;
   text-align: center;
-  padding: 15%;
+  padding: 5px;
+  background-color: #80003d;
+  color: whitesmoke;
 }
 
 /*
@@ -32,26 +54,33 @@ body {
   width: 10%; nefunguje*/
 
 
-.btn-registrace {
+/*.btn-registrace {
   background-image: url('/static/imgs/insert.png');
   background-size: cover;
   background-position: center;
-  width: 20%; /*negunguje, pokud v souhrnu nepresahne asi 80%*/
+  width: 20%; /*negunguje, pokud v souhrnu nepresahne asi 80%
   padding-right: 15%;
 }
+*/
 
-.btn-about {
+/*.btn-about {
   background-image: url('/static/imgs/about.png');
   background-size: cover;
   background-position: center;
   width: 20%;
   padding-right: 10%;
-}
+}*/
 
-.btn-formular{
+/*.btn-formular{
   background-image: url('/static/imgs/search.svg');
   background-size: cover;
   background-position: center;
   width: 20%;
   padding-left: 5%;
+}*/
+
+/* úprava id */
+
+#age_group li {
+  list-style: none;
 }

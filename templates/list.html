@@ -1,37 +1,36 @@
 <!--seznam škol-->
 
 {% extends "layout.html" %} {% block body %}
+<div class="col-sm-8 offset-2" style="margin-top:20px ;">
 <br />
     <header>
-        <h1>
-      List škol
+    <h1>
+      Seznam škol
     </h1>
         <form method="GET">
             <table class="table table-hover", table style="width:100%">
-                        <thead>
-                          <tr alidin="center">
-                            <th scope="col">Studio</th>
-                            <th scope="col">Link</th>
-                            <th scope="col">Adresa</th>
-                            <th scope="col">Část Prahy</th>
-                            <th scope="col">PSČ</th>
-                          </tr>
-                        </thead>
-                        <tbody>
-                            {% for item in expectation_table %}
-                            <tr aligin="center">
-                            <td>{{item.name}}</td>
-                            <td><a href="{{item.web}}">link</a></td>
-                            <td>{{item.address}}</td>
-                            <td>{{item.city_part}}</td>
-                            <td>{{item.postal_code}}</td>
-                          </tr>
-                    {% endfor %}
+              <thead>
+                <tr alidin="center">
+                  <th scope="col">Studio</th>
+                  <th scope="col">Adresa</th>
+                  <th scope="col">Část Prahy</th>
+                  <th scope="col">PSČ</th>
+                </tr>
+              </thead>
+              <tbody>
+                  {% for item in expectation_table %}
+                <tr aligin="center">
+                  <td><a href="{{item.web}}" target="_blank">{{item.name}}</a></td>
+                  <td>{{item.address}}</td>
+                  <td>{{item.city_part}}</td>
+                  <td>{{item.postal_code}}</td>
+                </tr>
+                  {% endfor %}
 
-                </tbody>
+              </tbody>
             </table>
         </form>
-        <br/>
+      <br/>
     </header>
 </div>
 {% endblock %}

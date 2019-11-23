@@ -1,29 +1,32 @@
 {% extends "layout.html" %}
 {% block title %}ABOUT{% endblock %}
 {% block body %}
-<div class="contact clearfix">
-	<img src="{{ url_for('static', filename='imgs/us.jpg') }}" width= 30%; alt="Takový běžný výlet v našem stylu" class="rounded" >
+<div class="col-sm-8 offset-1" style="margin-top:20px;" ></div>
 
-	<div class="description">
-		<h3>O této stránce</h3>
-
-		<p>
-      Tato stránka slouží jako databáze tanečních lekcí na území hlavního města Prahy. Zdrojem údajů jsou data veřejně dostupná na stránkách tanečních studií a také data vkládaná vámi, uživateli. Naší snahou je vytvořit komplexní databázi, kam byste se vraceli kdykoliv, kdy byste měli chuť najít si tu pravou lekci pro vás.
-    </p>
+<div class="container">
+	<div class="block">
+		<div class="row">
+			<div class="span4">
+				<img class="img-left rounded" src="{{ url_for('static', filename='imgs/us.jpg') }}" width= 30%/>
+				<div class="content-heading">
+					<h3> O této stránce </h3>
+				</div>
+				<p>Tato stránka slouží jako databáze tanečních lekcí na území hlavního města Prahy. 
+					Zdrojem údajů jsou data veřejně dostupná na stránkách tanečních studií a také data vkládaná vámi, uživateli. 
+					Naší snahou je vytvořit komplexní databázi, kam byste se vraceli kdykoliv, kdy byste měli chuť najít si tu pravou lekci pro vás.
+				</p>
+				<div class="content-heading">
+					<h3> O Páje </h3>
+				</div>
+				<p> Sem si o sobě něco napiš.
+				</p>
+				<div class="content-heading">
+					<h3> O Báře </h3>
+				</div>
+				<p> Sem si o sobě něco napiš.
+				</p>
+			</div>
+		</div>
 	</div>
-</div>
-
-<div class="contact clearfix">
-		<div class="description">
-		  <h3>Pája</h3>
-		  <p>Sem napíšeme dvě věty o Páji.</p>
-      <h3>Barča</h3>
-		  <p>Sem napíšeme 2 věty o Barči.</p>
-	  </div>
-</div>
-
-<div class="contacts">
-	<h2>KONTAKTY</h2>
-	<p>Pokud nám chceš cokoli napsat, můžeš <a class="link" href='mailto:tojestevymyslime@gmail.com'> tady.</a></p>
 </div>
 {% endblock %}
