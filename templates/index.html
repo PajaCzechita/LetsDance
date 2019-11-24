@@ -1,15 +1,15 @@
 {% extends "layout.html" %} {% block body %}
-    <div class="container container_body rounded">
+<div class="container container_body rounded">
     
-    <div class="header">
-      <div class="title">
-          <h1>LET'S DANCE</h1>
-          <p class="title-motto"> 
-            <a href="{{ url_for('show_formular') }}"> Najděte si lekci podle svého gusta. ;-) </a>
-          </p>
-      </div>
-      <img class="logo" src="{{ url_for('static', filename='imgs/logo.svg') }}" >
+  <div class="header">
+    <div class="title">
+        <h1>LET'S DANCE</h1>
+        <p class="title-motto"> 
+          <a href="{{ url_for('show_formular') }}"> Najděte si lekci podle svého gusta. ;-) </a>
+        </p>
     </div>
+    <img class="logo" src="{{ url_for('static', filename='imgs/logo.svg') }}" >
+  </div>
 <!--
   	<div class="buttons">
             <a href="{{ url_for('show_formular') }}" class="btn btn-default btn-formular">
@@ -25,6 +25,6 @@
 		        </a>
     </div>
 -->
-    <!-- End of the page //-->
-	</div>
+  <!-- End of the page //-->
+</div>
 {% endblock %}

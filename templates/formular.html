@@ -4,6 +4,9 @@
 <script type="text/javascript">Loader.load()</script>
 <form method="POST" action="{{ url_for('submit_formular') }}">
 
+<h1> Najdi si svou lekci </h1>
+  <br />  
+
     <!--vyhledavani mestske casti praha-->
   <div class="form-group row">
     <div class="col-sm-2">
@@ -24,94 +27,94 @@
     <div class="col-sm-2">
       <label for="exampleInputVek" class="col-form-label">Věk</label>
     </div>
-      <div class="col-sm-10">
-        <input type="number" class="form-control form-control-sm" id="exampleInputVek" min="1" max="99" name='vek'>
-      </div>
+    <div class="col-sm-10">
+      <input type="number" class="form-control form-control-sm" id="exampleInputVek" min="1" max="99" name='vek'>
     </div>
+  </div>
 
     <!--Vyhledávání podle studia-->
-    <div class="form-group row">
-        <div class="col-sm-2">
-          <label for="exampleFormControlSelectStudio">Studio</label>
-        </div>  
-        <div class="col-sm-10">
-          <select class="form-control form-control-sm" id="exampleFormControlSelectStudio" name='studio'>
-          <option value="">studio</option>
-          {% for item in studio %}
-            <option>{{ item.school }}</option>
-          {% endfor %}  
-        </select>
-      </div>
+  <div class="form-group row">
+    <div class="col-sm-2">
+      <label for="exampleFormControlSelectStudio">Studio</label>
+    </div>  
+    <div class="col-sm-10">
+      <select class="form-control form-control-sm" id="exampleFormControlSelectStudio" name='studio'>
+        <option value="">studio</option>
+        {% for item in studio %}
+        <option>{{ item.school }}</option>
+        {% endfor %}  
+      </select>
     </div>
+  </div>
 
-    <!--Vybirani podle lekce-->
-    <div class="form-group row">
-        <div class="col-sm-2">
-        <label for="exampleFormControlSelectLekce">Lekce</label>
-      </div>
-      <div class="col-sm-10">
-        <select class="form-control form-control-sm" id="exampleFormControlSelectLekce" name='lekce'>
-          <option value="">lekce</option>
-          {% for item in type %}
-            <option>{{ item.lesson }}</option>
-          {% endfor %}  
-        </select>
-      </div>
+  <!--Vybirani podle lekce-->
+  <div class="form-group row">
+    <div class="col-sm-2">
+      <label for="exampleFormControlSelectLekce">Lekce</label>
     </div>
+    <div class="col-sm-10">
+      <select class="form-control form-control-sm" id="exampleFormControlSelectLekce" name='lekce'>
+        <option value="">lekce</option>
+        {% for item in type %}
+        <option>{{ item.lesson }}</option>
+        {% endfor %}  
+      </select>
+    </div>
+  </div>
     
 
-      <!--Vyhledavani podle dnu-->
-      <div class="form-group row">
-          <div class="col-sm-2">
-            <label for="exampleFormControlSelectStudio">Vyberte dny</label>
-          </div>
-          <div class="col-sm-10">
-              <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="checkbox" value="Pondělí" id="Den1" name="Den_Pondeli">
-                  <label class="form-check-label" for="Den1">
-                    Pondělí
-                  </label>
-                </div>
-                <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="checkbox" value="Úterý" id="Den2" name="Den_Utery">
-                  <label class="form-check-label" for="Den2">
-                    Úterý
-                  </label>
-                </div>
-                <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="checkbox" value="Středa" id="Den3" name="Den_Streda">
-                  <label class="form-check-label" for="Den3">
-                    Středa
-                  </label>
-                </div>
-                <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="checkbox" value="Čtvrtek" id="Den4" name="Den_Ctvrtek">
-                  <label class="form-check-label" for="Den4">
-                    Čtvrtek
-                  </label>
-                </div>
-                <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="checkbox" value="Pátek" id="Den5" name="Den_Patek">
-                  <label class="form-check-label" for="Den5">
-                    Pátek
-                  </label>
-                </div>
-                <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="checkbox" value="Sobota" id="Den6" name="Den_Sobota">
-                  <label class="form-check-label" for="Den6">
-                    Sobota
-                  </label>
-                </div>
-                <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="checkbox" value="Neděle" id="Den7" name="Den_Nedele">
-                  <label class="form-check-label" for="Den7">
-                    Neděle
-                  </label>
-                </div>
-          </div>
+  <!--Vyhledavani podle dnu-->
+  <div class="form-group row">
+    <div class="col-sm-2">
+      <label for="exampleFormControlSelectStudio">Vyberte dny</label>
+    </div>
+    <div class="col-sm-10">
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" value="Pondělí" id="Den1" name="Den_Pondeli">
+        <label class="form-check-label" for="Den1">
+          Pondělí
+        </label>
       </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" value="Úterý" id="Den2" name="Den_Utery">
+        <label class="form-check-label" for="Den2">
+          Úterý
+        </label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" value="Středa" id="Den3" name="Den_Streda">
+        <label class="form-check-label" for="Den3">
+          Středa
+        </label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" value="Čtvrtek" id="Den4" name="Den_Ctvrtek">
+        <label class="form-check-label" for="Den4">
+          Čtvrtek
+        </label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" value="Pátek" id="Den5" name="Den_Patek">
+        <label class="form-check-label" for="Den5">
+          Pátek
+        </label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" value="Sobota" id="Den6" name="Den_Sobota">
+        <label class="form-check-label" for="Den6">
+          Sobota
+        </label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" value="Neděle" id="Den7" name="Den_Nedele">
+        <label class="form-check-label" for="Den7">
+          Neděle
+        </label>
+      </div>
+    </div>
+  </div>
     
-      <button type="submit" class="btn btn-primary">Hledat</button>
+    <button type="submit" class="btn btn-primary">Hledat</button>
   </form>
   {% if results %}
   {% endif %}

@@ -5,6 +5,9 @@
 {% block body %}
 
 <div class="form col-sm-8 offset-2" style="margin-top:20px ;">
+    <h1> Registruj svou lekci </h1>
+    <br />
+    
   <form method="POST" action="{{ url_for('add_course') }}">
 
     {{ render_field(form.lesson) }}
@@ -21,14 +24,10 @@
     {{ render_field(form.link) }}
     {{ render_field(form.email_address) }}
     
- 
     <div>
-        <input tabindex=1 type="submit" value="Odeslat" class="btn btn-default">
+      <input tabindex=1 type="submit" value="Odeslat" class="btn btn-default">
     </div>
   </form>
-  </div>
-
-
-
+</div>
 
 {% endblock %}
